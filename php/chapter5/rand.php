@@ -1,5 +1,6 @@
 <?php require '../header.php'; ?>
-<?php
-echo rand();
+<?php 
+// echo rand();
+echo getrandmax();
 ?>
 <?php require '../footer.php'; ?>
